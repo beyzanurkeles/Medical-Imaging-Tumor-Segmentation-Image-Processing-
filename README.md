@@ -1,5 +1,9 @@
 Medical Imaging: Tumor Segmentation with nnU-Net
+
+
 Tıbbi Görüntüleme: nnU-Net ile Tümör Segmentasyonu
+
+
 🇹🇷 Proje Hakkında (Turkish)
 Bu proje, tıbbi görüntüler üzerinde derin öğrenme yöntemlerini kullanarak tümör segmentasyonu yapmayı amaçlamaktadır. Proje kapsamında nnU-Net ve UNet++ mimarileri üzerinde çeşitli optimizasyonlar gerçekleştirilmiştir.
 
@@ -16,6 +20,7 @@ Mimari: nnU-Net ve UNet++ (3D Tıbbi Görüntü Segmentasyonu).
 Metrikler: Performans değerlendirmesi için Dice Skoru ve Hausdorff Mesafesi kullanılmıştır.
 
 Platform: Eğitimler Google Colab Pro+ üzerinde gerçekleştirilmiştir.
+
 
 🇺🇸 About the Project (English)
 This project aims to perform tumor segmentation on medical images using deep learning methods. Within the scope of the project, various optimizations have been carried out on nnU-Net and UNet++ architectures.
